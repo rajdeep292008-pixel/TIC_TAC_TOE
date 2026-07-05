@@ -35,3 +35,5 @@ A premium, futuristic Tic-Tac-Toe game built with a dark cyberpunk aesthetic. Fe
 This project was developed to explore the intersection of **Game Theory (AI)** and **Modern Web UI Design**. It demonstrates the ability to manage complex state logic while maintaining a high-end, arcade-style user experience.
 
 ---
+
+Made with 💚 with the help of AI.
